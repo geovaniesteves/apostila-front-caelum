@@ -1,0 +1,55 @@
+/* Deixando todos os parágrafos com cor do texto azul e fundo amarelo */
+/*p {
+	color: blue;
+	background-color: yellow; 
+}*/
+
+/* tipos de fonte */
+/*h1 {
+font-family: serif;
+}
+h2 {
+font-family: sans-serif;
+}
+p {
+font-family: monospace;
+}*/
+
+/*Temos outras propriedades para manipular a fonte, como a propriedade font-style, que define o estilo da
+fonte que pode ser: normal (normal na vertical), italic (inclinada) e oblique (oblíqua).*/
+/*body{
+	font-style: oblique;
+}*/
+
+/* Formatando o campo de texto todo */
+body {
+	font-family: "Arial", "Helvetica", sans-serif;
+	border-color: red;/* Cor da borda */
+	border-style: solid; /* Estilo da borda */
+	border-width: 1px; /* Largura da borda */
+	/* background: gold; Deixando o fundo do site em cor de ouro */
+}
+
+/* Formatação dos parágrafos */
+p {
+	text-align: justify;/* Alinhamento de texto justificado */
+	text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+}
+
+/* Formatação da tag h1 */
+h1 {
+	background-image: url(/home/mprj/Documentos/caelum/mirrorfashion/img/sobre-background.jpg);/* Add img no fundo do texto */
+}
+
+/* Alinhar texto a direita */
+/*p {
+	text-align: right;
+}*/
+
+/* Formatação de paragrafos com suas respectivas explicações */
+/*p {
+	line-height: 3px;  tamanho da altura de cada linha 
+	letter-spacing: 3px;  tamanho do espaço entre cada letra 
+	word-spacing: 5px;  tamanho do espaço entre cada palavra 
+	text-indent: 30px;  tamanho da margem da primeira linha do texto 
+}*/
